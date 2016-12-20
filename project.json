@@ -1,0 +1,8 @@
+{
+  "name": "mobmerry_image_processor",
+  "description": "Resizes/Processes images stored in S3 bucket",
+  "memory": 1024,
+  "timeout": 5,
+  "role": "arn:aws:iam::046874047165:role/mobmerry_image_processor_lambda_function",
+  "environment": {}
+}
